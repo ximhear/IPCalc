@@ -3,7 +3,7 @@
 //  ipCalc
 //
 //  Created by C.H Lee on 5/7/11.
-//  Copyright 2011 __MyCompanyName__. All rights reserved.
+//  Copyright 2011 gzone. All rights reserved.
 //
 
 #import <Foundation/Foundation.h>
